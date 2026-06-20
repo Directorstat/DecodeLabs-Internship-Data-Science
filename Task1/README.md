@@ -125,7 +125,7 @@ Random Forest was selected as the final model based on superior performance.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Directorstat/DecodeLabs-Internship.git
+git clone [https://github.com/Directorstat/DecodeLabs-Internship](https://github.com/Directorstat/DecodeLabs-Internship-Data-Science/tree/main/Task1).git
 cd DecodeLabs-Internship
 ```
 
