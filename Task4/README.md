@@ -222,8 +222,11 @@ print(predict_sentiment("This product is outstanding value for money."))
 ## Author
 
 Abdulrouf, Waliyullahi Abiodun
+
 Data Scientist
+
 GitHub: github.com/Directorstat
+
 Contact: abiodunajaniabdulrouf@gmail.com
 
 ---
