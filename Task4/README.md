@@ -233,11 +233,3 @@ Contact: abiodunajaniabdulrouf@gmail.com
 This project was developed as part of the Decode Labs Data Science Internship program
 under the Technical Mastery Phase: NLP and Sentiment Analysis track. Dataset sourced
 from the Stanford Network Analysis Project via Kaggle.
-
----
-
-## Disclaimer
-
-All review data used in this project is publicly available on Kaggle. No personally
-identifiable information beyond publicly visible Amazon usernames was used or retained
-at any stage of this analysis.
